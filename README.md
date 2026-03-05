@@ -84,4 +84,4 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 ---
 This project is open for viewing and learning purposes.
 
-Licensed under the [MIT License](LICENSE) © 2025 Maie Canja et al.
+Licensed under the [MIT License](LICENSE) © 2025 Tricha Maie Canja et al.
