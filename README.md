@@ -64,6 +64,7 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 ├── /model
 ├── /demo
 ├── /docs
+├── /LICENSE
 └── README.md
 ```
 
