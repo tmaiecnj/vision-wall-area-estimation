@@ -1,11 +1,11 @@
 # VISION-BASED WALL AREA ESTIMATION FOR A ROBOTIC PAINT COATER
----
-> A computer vision-powered application that detects, segments, estimates the wall area, and automatically calculates the volume of the paint.
+
+A computer vision-powered application that detects, segments, estimates the wall area, and automatically calculates the volume of the paint.
 
 <br>
 
 ## 📌 OVERVIEW
----
+
 A computer vision system that detects and segments wall surfaces from images, estimates the paintable area, and computes the requuired paint volume, removing the need for manual measurement.
 
 This system is built using **Python (Flask)** for the backend, **HTML and CSS** for the frontend, and **YOLOv11** for both object detection and image segmentation.
@@ -19,7 +19,7 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 <br>
 
 ## **✨ HIGHLIGHTS**
----
+
 *   🔍 Wall detection and segmentation using YOLOv11
 *   📐 Wall area estimation from a single image
 *   🎨 Paint volume calculator based on estimated surface area
@@ -29,13 +29,13 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 <br>
 
 ## **🎬 DEMONSTRATION**
----
+
 > *📽️ Demo GIF coming soon*
 
 <br>
 
 ## **🎯 USE CASE**
----
+
 |Use Case|Description|
 |---|---|
 |💰*Cost Estimation*|Helps painters and clients get accurate material cost estimates without manual measuring|
@@ -44,7 +44,7 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 <br>
 
 ## **🛠️ TECH STACK**
----
+
 |LAYER|TECHNOLOGY|
 |-----|-----|
 |Frontend|HTML, CSS|
@@ -56,7 +56,7 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 <br>
 
 ## **📁 PROJECT STRUCTURE**
----
+
 ```
 ├── /frontend
 ├── /backend
@@ -71,7 +71,7 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 <br>
 
 ## **👨‍💻 ACADEMIC INFO**
----
+
 |**FIELD**|**DETAILS**|
 |---|---|
 |Institution|Technological Institute of the Philippines - Quezon City|
@@ -82,7 +82,7 @@ This system is built using **Python (Flask)** for the backend, **HTML and CSS** 
 <br>
 
 ## 📄 LICENSE
----
+
 This project is open for viewing and learning purposes.
 
 Licensed under the [MIT License](LICENSE) © 2025 Tricha Maie Canja et al.
