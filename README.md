@@ -4,14 +4,14 @@
 
 </h1>
 
-<p align="center">
+<div align="center">
 <i>Backend & Computer Vision</i>
 <br>
   <img src="assets/python.png" width="120"/>   
   <img src="assets/flask.png" width="80">
   <img src="assets/opencv.png" width="120">
   <img src="assets/numpy.png" width="120" />
-<br><br>
+<br>
 <i>Object Detection & Segmentation</i>
 <br><br>
   <img src="assets/Ultralytics-YOLO11.png" width="200"/>
@@ -20,8 +20,8 @@
 <br>
   <img src="assets/html.png" width="80">
   <img src="assets/css.png" width="80">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80">
-</p>
+  <img src="assets/javascript.png" width="80">
+</div>
 
 <br>
 
