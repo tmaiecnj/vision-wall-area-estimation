@@ -1,6 +1,35 @@
-# VISION-BASED WALL AREA ESTIMATION FOR A ROBOTIC PAINT COATER
+<h1 align="center">
 
-A computer vision-powered application that detects, segments, estimates the wall area, and automatically calculates the volume of the paint.
+**VISION-BASED WALL AREA ESTIMATION FOR A ROBOTIC PAINT COATER**
+
+</h1>
+
+<p align="center">
+<i>Backend & Computer Vision</i>
+<br>
+  <img src="assets/python.png" width="120"/>   
+  <img src="assets/flask.png" width="80">
+  <img src="assets/opencv.png" width="120">
+  <img src="assets/numpy.png" width="120" />
+<br><br>
+<i>Object Detection & Segmentation</i>
+<br><br>
+  <img src="assets/Ultralytics-YOLO11.png" width="200"/>
+<br><br>
+<i>Frontend</i>
+<br>
+  <img src="assets/html.png" width="80">
+  <img src="assets/css.png" width="80">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80">
+</p>
+
+<br>
+
+<p align="center">
+
+*A computer vision-powered application that detects, segments, estimates the wall area, and automatically calculates the volume of the paint.*
+
+</p>
 
 <br>
 
